@@ -12,7 +12,7 @@ This project aims to predict the likelihood of heart disease using a logistic re
 - [Visualization](#visualization)
 
 ## Getting the Dataset
-The dataset used in this project is sourced from [provide dataset source]. It contains relevant features such as age, cholesterol levels, blood pressure, and other health indicators.
+The dataset used in this project is sourced from internet. It contains relevant features such as age, cholesterol levels, blood pressure, and other health indicators.
 
 ## Data Preprocessing
 - **Handling Missing Values:** Identifies and addresses missing or null values in the dataset.
